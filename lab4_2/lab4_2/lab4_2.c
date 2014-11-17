@@ -54,6 +54,7 @@ void multiple_entry_remover(int field[], int *elements)
 		i++;
 	}
 }
+
 void print_final_list(int field[], int *elements)
 {
 	int index = 0;
